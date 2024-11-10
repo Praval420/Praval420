@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vighnesh</h1>
+<h1 align="center">Hi 👋, I'm Praval</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [vighneshms.netlify.app](https://vighneshms.netlify.app/)
 
-- 📫 How to reach me **vighnesh21ms@gmail.com**
+- 📫 How to reach me **sourav12345singhpraval@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
