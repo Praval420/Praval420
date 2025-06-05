@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vighnesh-m-s&label=Profile%20views&color=0e75b6&style=flat" alt="vighnesh-m-s" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [vighneshms.netlify.app](https://vighneshms.netlify.app/)
 
 - 📫 How to reach me **sourav12345singhpraval@gmail.com**
 
